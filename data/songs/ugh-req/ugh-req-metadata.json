@@ -14,12 +14,8 @@
             "player": "bf",
             "opponent": "tankman",
             "altInstrumentals": [],
-            "opponentVocals": [
-                "tankman"
-            ],
-            "playerVocals": [
-                "bf"
-            ]
+            "opponentVocals": [],
+            "playerVocals": []
         },
         "stage": "tankmanBattlefieldErect",
         "noteStyle": "funkin",
