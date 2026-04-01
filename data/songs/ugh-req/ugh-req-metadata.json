@@ -1,0 +1,48 @@
+{
+    "version": "2.2.4",
+    "songName": "Ugh (??? Mix)",
+    "artist": "Requazar & Kawai Sprite",
+    "charter": "MtH",
+    "offsets": {},
+    "playData": {
+        "difficulties": [
+            "easy",
+            "normal",
+            "hard"
+        ],
+        "characters": {
+            "player": "bf",
+            "opponent": "tankman",
+            "altInstrumentals": [],
+            "opponentVocals": [
+                "tankman"
+            ],
+            "playerVocals": [
+                "bf"
+            ]
+        },
+        "stage": "tankmanBattlefieldErect",
+        "noteStyle": "funkin",
+        "ratings": {
+            "easy": 3,
+            "normal": 5,
+            "hard": 7
+        },
+        "album": "req",
+        "previewEnd": 0.192383892677076
+    },
+    "generatedBy": "Friday Night Funkin' - v0.8.4",
+    "timeChanges": [
+        {
+            "t": 0,
+            "b": 0,
+            "bpm": 160,
+            "bt": [
+                4,
+                4,
+                4,
+                4
+            ]
+        }
+    ]
+}

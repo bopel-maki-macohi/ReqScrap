@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "name": "Requazar",
+  "artists": ["Requazar"],
+  "albumArtAsset": "storymenu/titles/req",
+  "albumTitleAsset": "freeplay/albumRoll/spaghetti-text",
+  "albumTitleOffsets": [900000, 0]
+}

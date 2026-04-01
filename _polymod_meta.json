@@ -1,0 +1,23 @@
+{
+  "title": "ReqScrap",
+  "id": "req-scrap",
+
+  "description": "Req's scrapped songs but ingame because yes",
+  
+  "contributors": [
+    {
+      "name": "Maki"
+    },
+    {
+      "name": "Requazar"
+    }
+  ],
+  
+  "dependencies": {},
+  "optionalDependencies": {},
+
+  "api_version": "0.8.4",
+  "mod_version": "1.0.0",
+  
+  "license": "Apache-2.0"
+}
